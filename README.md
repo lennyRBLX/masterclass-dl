@@ -8,10 +8,10 @@ I am in no way condoning usage and/or support downloading materials from Masterc
 
 - Account
 - Paid Subscription
- = For most courses, some free lessons are provided by Masterclass
+ - For most courses, some free lessons are provided by Masterclass
 - Cookie Editing extension
- = https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
- = https://addons.mozilla.org/en-US/firefox/addon/etc2/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+ - https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg
+ - https://addons.mozilla.org/en-US/firefox/addon/etc2/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 - Python (3.7+)
  
 ## Explanation
