@@ -17,11 +17,11 @@ I am in no way condoning usage and/or support downloading materials from Masterc
 ## Explanation
 
 1. Install the required packages
-  - Run "python -m pip -q install -r /root/.Skillshare-DL/requirements.txt" in System/Admin-Privileged Console
+ - Run "python -m pip -q install -r /root/.Skillshare-DL/requirements.txt" in System/Admin-Privileged Console
 2. Log in to Masterclass
 3. Open your Cookie Editor
 4. Copy the '_mc_session' cookie
 5. Paste & replace "PASTEHERE" in dl.py
 6. Run the program
-  - python dl.py "SITE_URL_HERE"
-  - ex: python dl.py "https://www.masterclass.com/classes/gordon-ramsay-teaches-cooking"
+ - python dl.py "SITE_URL_HERE"
+ - ex: python dl.py "https://www.masterclass.com/classes/gordon-ramsay-teaches-cooking"
